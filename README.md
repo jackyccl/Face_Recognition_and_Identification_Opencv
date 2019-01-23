@@ -9,6 +9,12 @@ Face recognition is just pulling out faces in a video or image. Face identificat
 
 ##### Note that the images in the "images" file can be added to have a better result. Those images are just meant for references and testing purposes.
 
+#### Step 1 : Collect all the images that you wished to identify and put them in the "images" file
+#### Step 2 : Open and run "faces_trained.py"
+#### Step 3 : Check the directory to see if "labels.pickle" and "trainner.yml" files to be generated
+#### Step 4 : Once Step 3 is confirmed, run "faces.py"
+#### Step 5 : Enjoy!!
+
 At the end, I will have two different python modules, which one dedicated towards training using LBPH Face REcognizer and another referred to not only recognizing but also identifying faces in a video.
 
 However, the facial identification and recognition can be advanced using deep learning library. In this project, I will be only using openCV built-in features to train the faces. More to come in the next project using other advanced deep learning techniques. 
