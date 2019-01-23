@@ -7,4 +7,6 @@ Face recognition is just pulling out faces in a video or image. Face identificat
 <img src="https://user-images.githubusercontent.com/46767764/51595258-47349e00-1f31-11e9-9e4d-a01d180ae419.gif">
 </p>
 
+At the end, I will have two different python modules, which one dedicated towards training using LBPH Face REcognizer and another referred to not only recognizing but also identifying faces in a video.
 
+However, the facial identification and recognition can be advanced using deep learning library. In this project, I will be only using openCV built-in features to train the faces. More to come in the next project using other advanced deep learning techniques. 
